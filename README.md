@@ -1,1 +1,1 @@
-# study-tailwind
+# $${\color{blue}study-tailwind}$$
